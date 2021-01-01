@@ -1,4 +1,4 @@
-# Testing Project with Selenium
+# Testing Web Project with Selenium
 
 ## Project for testing 
 A web project **[Sports Corner](https://github.com/MdSiamAnsary/SportsCorner)** is tested. The GitHub repository of the project is at the link: https://bit.ly/2JzqWaC. 
