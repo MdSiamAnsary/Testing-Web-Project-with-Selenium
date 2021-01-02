@@ -13,11 +13,11 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 
-class NavigationAngLogOutTests {
+class NavigationAndLogOutTests {
 
 	private WebDriver driver;
 
-	NavigationAngLogOutTests() {
+	NavigationAndLogOutTests() {
 		System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
 		driver = new ChromeDriver();
 		driver.get("http://localhost:8012/SportsCorner/");
