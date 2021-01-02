@@ -18,5 +18,19 @@ For testing purpose, the following elements are required.
 - ChromeDriver - WebDriver for Chrome 
 	> Can be downloaded from the link: https://chromedriver.chromium.org/ 
  
+## Testing flow
+From user perspective, the **Sports Corner** project has three aspects. They are 
+- User registration 
+- User Log in 
+- Navigation of the site and Log out 
 
+The testing of user log in and navigation and log out may depend on the successful run of user registration testing. 
 
+The codes for testing are written in the package `testpackage`.
+- Test cases related to User registration are in `RegistrationTests.java`
+- Test cases related to User Log in are in `LogInTests.java`
+- Test cases related to Navigation of the site and Log out are in `NavigationAndLogOutTests.java`
+
+Test cases for **User registration** should be run first, then, test cases for **User Log in** and test cases for **Navigation of the site and Log out** should be run. 
+
+The detailed description is in the [design document](https://bit.ly/2MkInN7) 
