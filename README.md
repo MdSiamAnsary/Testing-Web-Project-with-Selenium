@@ -1,10 +1,10 @@
 # Testing Web Project with Selenium
 
 ## Project for testing 
-A web project **[Sports Corner](https://github.com/MdSiamAnsary/SportsCorner)** is tested. The GitHub repository of the project is at the link: https://bit.ly/2JzqWaC. 
+A web project **[Sports Corner](https://github.com/MdSiamAnsary/SportsCorner)** is tested. The GitHub repository of the project is at the [[LINK](https://github.com/MdSiamAnsary/SportsCorner)] 
 
 ## Test Case Design Documentation for testing 
-A document is prepared for designing the test cases to do testing. The document is available at the link : https://bit.ly/2MkInN7 
+A document is prepared for designing the test cases to do testing. The document is available at the [[LINK](https://github.com/MdSiamAnsary/Testing-Web-Project-with-Selenium/blob/main/Test%20Case%20Documentation/Test%20Case%20Documentation.pdf)]
 
 ## Tools for testing
 
@@ -33,4 +33,4 @@ The codes for testing are written in the package `testpackage`.
 
 Test cases for **User registration** should be run first, then, test cases for **User Log in** and test cases for **Navigation of the site and Log out** should be run. 
 
-The detailed description is in the [design document](https://bit.ly/2MkInN7) 
+The detailed description is in the [design document](https://github.com/MdSiamAnsary/Testing-Web-Project-with-Selenium/blob/main/Test%20Case%20Documentation/Test%20Case%20Documentation.pdf) 
