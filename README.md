@@ -1,4 +1,5 @@
 # Testing Web Project with Selenium
+The work has been down as an assignment for the Software Quality Assurance and Testing course of Master in Information Technology degree at Institute of Information Technology of University of Dhaka. 
 
 ## Project for testing 
 A web project **[Sports Corner](https://github.com/MdSiamAnsary/SportsCorner)** is tested. The GitHub repository of the project is at the [[LINK](https://github.com/MdSiamAnsary/SportsCorner)] 
